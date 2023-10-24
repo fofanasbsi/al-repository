@@ -1,0 +1,31 @@
+{
+    "id": "2d6a6fb5-fe46-48c4-9e58-8e50b889fdfb",
+    "name": "ALProject1",
+    "publisher": "Default publisher",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "23.0.0.0",
+    "idRanges": [
+        {
+            "from": 50100,
+            "to": 50149
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "12.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}
